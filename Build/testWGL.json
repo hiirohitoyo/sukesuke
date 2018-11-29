@@ -1,0 +1,13 @@
+{
+"companyName": "hiirohitoyo",
+"productName": "SukeSuke",
+"dataUrl": "testWGL.data.unityweb",
+"asmCodeUrl": "testWGL.asm.code.unityweb",
+"asmMemoryUrl": "testWGL.asm.memory.unityweb",
+"asmFrameworkUrl": "testWGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
